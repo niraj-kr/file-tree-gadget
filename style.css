@@ -89,6 +89,16 @@ nav img{
 nav .fas{
     display: none;
 }
+.code1{
+    padding-left: 450px;
+}
+.code-snippet{
+    background-color: #aab7c1;
+}
+
+
+
+
 @media(max-width: 700px){
     .text-box h1{
         font-size: 40px;
